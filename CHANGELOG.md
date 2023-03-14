@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/benjaminbuyco/test-release-please/compare/v1.1.0...v1.2.0) (2023-03-14)
+
+
+### Features
+
+* **test:** make some tests ([863b439](https://github.com/benjaminbuyco/test-release-please/commit/863b4396f107732e0eb034507d0986aa3a1067dd))
+
 ## [1.1.0](https://github.com/benjaminbuyco/test-release-please/compare/v1.0.0...v1.1.0) (2023-03-14)
 
 
