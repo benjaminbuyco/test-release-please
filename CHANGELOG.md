@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/benjaminbuyco/test-release-please/compare/v1.2.1...v1.3.0) (2023-03-14)
+
+
+### Features
+
+* **File:** add new file ([1e0444b](https://github.com/benjaminbuyco/test-release-please/commit/1e0444b30391ae06fb6c0326384e45178b2b77a4))
+
+
+### Bug Fixes
+
+* modify file ([50789e6](https://github.com/benjaminbuyco/test-release-please/commit/50789e612206a6aa596f5ae887d8ddaae509e8aa))
+
 ## [1.2.1](https://github.com/benjaminbuyco/test-release-please/compare/v1.2.0...v1.2.1) (2023-03-14)
 
 
